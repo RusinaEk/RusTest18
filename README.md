@@ -1,8 +1,6 @@
 ---
-title: READme test text
+title: READme_test_text
 ---
 # RusTest18
 ## RusTest18_test_tasks
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/Vi0Ws3t4JSLOgdkaBq/giphy-downsized-large.gif" width="100"/>
-</div>
+This is READme file
